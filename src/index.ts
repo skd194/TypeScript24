@@ -11,9 +11,9 @@ let salary: number = 123_456_789;
 let hasJoined = false;
 let emp = { empName, salary, hasJoined };
 
-let avoidUsingAny: any = 0;
-avoidUsingAny = 1;
-avoidUsingAny = "456";
+// let avoidUsingAny: any = 0;
+// avoidUsingAny = 1;
+// avoidUsingAny = "456";
 
 function getEmployee(id: number) {
     if (id < 0) {
