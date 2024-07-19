@@ -1,7 +1,7 @@
-import { Oops } from './oops';
+import { OopsBasics } from './oops/oops_basics';
 
 // Oops
-Oops()
+OopsBasics()
 
 const CODE = "X234"
 console.log("hello world" + CODE);
