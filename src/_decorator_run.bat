@@ -1,1 +1,0 @@
-tsc && node ./../dist/decorators/class_decorators.js && node ./../dist/decorators/class_parameterized_decorators.js

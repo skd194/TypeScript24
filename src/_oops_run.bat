@@ -1,1 +1,0 @@
-tsc && node ./../dist/oops/oops.js
